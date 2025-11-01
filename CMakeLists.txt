@@ -11,4 +11,5 @@ add_executable(Lab09 Question1.c
         Question6.c
         Question7.c
         Question8.c
-        Question9.c)
+        Question9.c
+        Question10.c)
